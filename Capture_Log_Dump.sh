@@ -1,4 +1,21 @@
 #!/bin/bash
+# Packet capture and log dump to facillitate diagnostics on Centos 9 
+# Stream
+#
+# Copyright 2023 Robert Crowe
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the Apache License as published by
+# the Apache Foundation, either version 2 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# Apache License for more details.
+#
+# You should have received a copy of the Apache License
+# along with this program.  If not, see <https://apache.org/licenses/>.
 
 # Part 1 - Perform packet capture on all interfaces using tcpdump
 
